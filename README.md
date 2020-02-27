@@ -1,5 +1,6 @@
 # thymio
-Thymio offers children a modular affordable robot to let them discover digital technologies.
+Thymio offers children a modular affordable robot to let them discover digital technologies. Following are the fun experiments that I have developed as part of volunteering for a STEM workshop. 
+ 
 
 ## 1) Maze Runner: A maze runner robot using the proximity sensors.
 ![alt text](https://github.com/naveenkambham/thymio/blob/master/maze_runner_sample.jpg)
