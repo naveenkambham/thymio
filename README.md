@@ -3,7 +3,9 @@ Thymio offers children a modular affordable robot to let them discover digital t
 
 ## 1) Maze Runner:
 ![alt text](https://github.com/naveenkambham/thymio/blob/master/maze_runner.jpg)
+
 A maze runner robot using the proximity sensors.
+
 ![alt text](https://github.com/naveenkambham/thymio/blob/master/maze_runner_visual_code.png)
 ![alt text](https://github.com/naveenkambham/thymio/blob/master/maze_runner_visual_code2.png)
 
